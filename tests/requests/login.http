@@ -1,0 +1,12 @@
+POST http://localhost:9090/login
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Access-Control-Allow-Origin: *
+
+{
+  "email": "test@example.com",
+  "password": "1234"
+}
+
+###

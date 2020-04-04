@@ -1,0 +1,4 @@
+GET http://localhost:9090/home
+Authorization: Bearer <PUT-YOUR-TOKEN-HERE>
+
+###
