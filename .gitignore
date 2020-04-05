@@ -15,5 +15,4 @@
 # vendor/
 
 .idea
-*.pem
-*.key
+jwt_key.*

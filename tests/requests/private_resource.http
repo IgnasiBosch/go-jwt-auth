@@ -1,0 +1,4 @@
+GET http://localhost:9090/resource
+Authorization: Bearer <PUT-YOUR-TOKEN-HERE>
+
+###
